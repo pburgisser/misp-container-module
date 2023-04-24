@@ -40,4 +40,4 @@ jobs:
             ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           build-args: |
-            MODULES_TAG=v2.4.162
+            MODULES_TAG=v2.4.170
